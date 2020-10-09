@@ -1,0 +1,26 @@
+.login__logo {
+    width: 130px;
+}
+
+.login__title {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.login__background {
+    object-fit: cover;
+    object-position: right;
+    width: 100%;
+}
+
+.login__recover {
+    color: #969696;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+.login__recover:hover {
+    color: #363636;
+    cursor: pointer;
+}
